@@ -1,4 +1,4 @@
-//geen eigen code, CHATGPT heeft deze geschreven
+//geen eigen code, CHATGPT heeft deze geschreven.
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
